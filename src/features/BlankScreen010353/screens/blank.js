@@ -51,12 +51,8 @@ export class _Blank extends React.Component {
         alignContent: "stretch",
         borderColor: "#000000",
         borderStyle: "solid",
-        borderWidth: 0,
-        borderLeftWidth: 0,
-        borderRightWidth: 0,
-        borderTopWidth: 0,
-        borderBottomWidth: 0,
-        borderRadius: 0,
+        borderWidth: 3,
+        borderRadius: 4,
         backgroundSize: "auto"
       }}
     >
